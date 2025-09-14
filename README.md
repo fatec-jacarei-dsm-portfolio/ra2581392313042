@@ -1,6 +1,6 @@
 # Portfólio de Projetos - Fatec Jacareí
 
-### Aluno: FRANCIELE MARIA CHESERE
+### Aluna: FRANCIELE MARIA CHESERE
 
 ### Curso: Desenvolvimento de Software Multiplataforma
 
@@ -11,4 +11,4 @@
 ### Portfólio Online
 
 🔗 [Acesse o Portfólio](https://fatec-jacarei-dsm-portfolio.github.io/ra2581392313042/)
-🎤 [Pitch de Apresentação (vídeo)](https://youtu.be/d7incwnsFqk)
+🎤 [Pitch de Apresentação (vídeo)](https://youtu.be/ChqlvypCuUM)
